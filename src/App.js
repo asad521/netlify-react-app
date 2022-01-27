@@ -8,6 +8,8 @@ function App() {
         Then we will give path of build.
       </h4>
       <h4>then go you github and make a new repo and commit all code.</h4>
+      <h5>then go to netlify and add new site from git hub. add repo</h5>
+      <h6>must first locally build first before netlify deployment</h6>
     </div>
   );
 }
